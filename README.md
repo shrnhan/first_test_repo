@@ -3,5 +3,7 @@ Testing out for version control for DC workshop
 
 Wow funny python jokes: 
 
-* ssssss
-* I forgot (asterisks renders as bullet pointed list)
+A horse walks into a bar, and the bartender asks, "Why the long face?"
+:(
+
+**shrug**
